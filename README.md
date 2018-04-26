@@ -1,2 +1,2 @@
 # stekat.github.io
-stekat website http://stekat.com
+stekat website https://stekat.com
